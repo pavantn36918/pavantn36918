@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @pavantn36918
-- 👀 I’m interested in ..
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Creating websites and Problem solving.
+- 🌱 I’m currently learning how to create a responsive Websites, NodeJS and DSA.
 - 📫 How to reach me ...
 https://instagram.com/pavantn_369?igshid=NzZlODBkYWE4Ng==
 
